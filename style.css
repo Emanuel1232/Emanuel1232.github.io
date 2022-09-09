@@ -14,7 +14,7 @@
 }
 
 html {
-	background-color: var(--sunSet);
+	background-color: var(--perriWinkle);
 }
 
 body {
@@ -35,8 +35,8 @@ div.content {
 div.navMenu {
 	width: 100%;
 	height: 72px;
-	border-top: 4px solid var(--perriWinkle);
-	border-bottom: 4px solid var(--perriWinkle);
+	border-top: 4px solid var(--sunSet;
+	border-bottom: 4px solid var(--sunSet);
 	margin-top: 8px;
 	margin-bottom: 8px;
 	display: flex;
@@ -67,7 +67,7 @@ a.navMenuLink {
 .navMenuLink:hover {
 	font-weight: bold;
 	text-decoration: underline;
-	color: var(--lilacPurple;
+	color: var(--lilacPurple);
 }
 
 div.heroImageDiv {
