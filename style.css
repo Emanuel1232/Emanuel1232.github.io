@@ -11,6 +11,7 @@
 	--bubbleGum: #ffa1f6;
 	--lilacPurple: #bf91ff;
 	--perriWinkle: #96b2ff;
+	--grassGreen: #caffc2;
 }
 
 html {
@@ -47,7 +48,7 @@ div.navMenu {
 p.navMenuItem {
 	font-family: Arial, sans-serif;
 	font-size: 24px;
-	color: var(--bubbleGum);
+	color: var(--grassGreen;
 }
 
 a.navMenuLink {
