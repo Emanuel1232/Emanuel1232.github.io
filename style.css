@@ -7,15 +7,10 @@
 	--heroBackgroundColor: #444444;
 	--heroTextColor:  #FFFFFF;
 	--textColor:  #333333;
-	--sunSet:  #ffa021;
-	--bubbleGum: #ffa1f6;
-	--lilacPurple: #bf91ff;
-	--perriWinkle: #96b2ff;
-	--grassGreen: #caffc2;
 }
 
 html {
-	background-color: var(--perriWinkle);
+	background-color: var(--pageBackground);
 }
 
 body {
@@ -36,8 +31,8 @@ div.content {
 div.navMenu {
 	width: 100%;
 	height: 72px;
-	border-top: 4px solid var(--sunSet);
-	border-bottom: 4px solid var(--sunSet);
+	border-top: 4px solid var(--wheatonTeal);
+	border-bottom: 4px solid var(--wheatonTeal);
 	margin-top: 8px;
 	margin-bottom: 8px;
 	display: flex;
@@ -48,7 +43,7 @@ div.navMenu {
 p.navMenuItem {
 	font-family: Arial, sans-serif;
 	font-size: 24px;
-	color: var(--grassGreen);
+	color: var(--wheatonBlue);
 }
 
 a.navMenuLink {
@@ -68,7 +63,7 @@ a.navMenuLink {
 .navMenuLink:hover {
 	font-weight: bold;
 	text-decoration: underline;
-	color: var(--lilacPurple);
+	color: var(--wheatonYellow);
 }
 
 div.heroImageDiv {
@@ -142,7 +137,7 @@ div.smallImageDiv {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: var(--perriWinkle);
+	background-color: var(--wheatonBlue);
 	overflow: hidden;
 }
 
@@ -180,7 +175,7 @@ div.assignmentsGrid {
 div.assignmentsThumbnail {
 	width: 256px;
 	height: 256px;
-	background-color: var(--perriWinkle);
+	background-color: var(--wheatonBlue);
 	display: flex;
 	justify-content: center;
 	align-items: center;
