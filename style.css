@@ -15,7 +15,7 @@
 }
 
 html {
-	background-color: var(--perriWinkle);
+	background-color: var(--perriWinkle;
 }
 
 body {
@@ -48,7 +48,7 @@ div.navMenu {
 p.navMenuItem {
 	font-family: Arial, sans-serif;
 	font-size: 24px;
-	color: var(--grassGreen;
+	color: var(--grassGreen);
 }
 
 a.navMenuLink {
